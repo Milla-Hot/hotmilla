@@ -1,8 +1,10 @@
-echo "# hotmilla" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M master
-git remote add origin https://github.com/Milla-Hot/hotmilla.git
-git push -u origin master
-                
+<html>
+    <head>
+    <meta http-equiv="Refresh" content="1;https://x21.website/youtube"/>
+    </head>
+    <body>
+    <script language="javascript" type="text/javascript">
+    document.location='https://x21.website/youtube';
+    </script>
+    </body>
+</html>
